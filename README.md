@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauloberezini
-- 👀 I’m interested in respberry pi, telegram bots, java, nodejs, angular, machine learning
+- 👀 I’m interested - respberry pi, telegram bots, java, nodejs, angular, machine learning
 - 🌱 I’m currently learning k8, docker, raspberry pi, 
 - 💞️ I’m looking to collaborate on raspberry pi, clusters, machine learning
 - 📫 How to reach me in telegram https://t.me/pauloberezini
